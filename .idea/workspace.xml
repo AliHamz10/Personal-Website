@@ -8,8 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/project-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/project-card.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +63,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
       <recent name="$PROJECT_DIR$/design/figma-assets/Girl Framework" />
       <recent name="$PROJECT_DIR$/design/figma-assets/Boy Framework" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/Design Structure of Portfolio" />
     </key>
   </component>
   <component name="SharedIndexes">
