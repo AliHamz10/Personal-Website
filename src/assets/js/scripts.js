@@ -1,13 +1,15 @@
-// Function to load HTML components dynamically
-function loadComponent(id, file) {
-    fetch(file)
+document.addEventListener("DOMContentLoaded", function () {
+    // Load Navbar
+    fetch("/src/components/navbar.html")
         .then(response => response.text())
-        .then(data => document.getElementById(id).innerHTML = data)
-        .catch(error => console.error(`Error loading ${file}:`, error));
-}
+        .then(data => {
+            document.body.insertAdjacentHTML("afterbegin", data);
+        });
 
-// Load Navbar and Footer
-document.addEventListener("DOMContentLoaded", function() {
-    loadComponent("navbar", "/src/components/navbar.html");
-    loadComponent("footer", "/src/components/footer.html");
+    // Load Footer
+    fetch("/src/components/footer.html")
+        .then(response => response.text())
+        .then(data => {
+            document.body.insertAdjacentHTML("beforeend", data);
+        });
 });
