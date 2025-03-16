@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eff67b7-7b60-4b34-ac45-388fbf7fa5c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Portfolio Website/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Portfolio Website/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme &amp; TODO List/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme &amp; TODO List/TODO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TODO.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +27,9 @@
     &quot;accountId&quot;: &quot;31b54bce-2550-4699-84cc-9c8f73424285&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -66,11 +59,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design/figma-assets/Girl Framework" />
+      <recent name="$PROJECT_DIR$/design/figma-assets/Boy Framework" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/Design Structure of Portfolio" />
-      <recent name="$PROJECT_DIR$/Readme &amp; TODO List" />
-      <recent name="$PROJECT_DIR$/My Portfolio Website" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -92,7 +85,7 @@
       <workItem from="1741699032956" duration="551000" />
       <workItem from="1741704438205" duration="2099000" />
       <workItem from="1741767177337" duration="133000" />
-      <workItem from="1741930864432" duration="1156000" />
+      <workItem from="1741930864432" duration="5151000" />
     </task>
     <servers />
   </component>
